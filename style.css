@@ -1,0 +1,14 @@
+.container {
+    width: 306px;
+}
+.div1{
+    float: left;
+    width: 250px;
+    display: flex;
+    background-color: yellow;
+}
+.div2{
+    float: right;
+    width: 56px;
+    background-color: red;
+}
